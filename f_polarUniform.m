@@ -5,6 +5,11 @@
 %	r: radius of circle
 %	n: number of circlular lines in area (integer)
 %
+%	NOTE:
+%		there is a bit problem of isotropy
+%		since the azimutal density is 5% lower than
+%		the radial density of points.
+%
 function [x,y] = f_polarUniform(r,n)
 
 	dr = r/(n-1);
