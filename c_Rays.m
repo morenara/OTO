@@ -1,7 +1,7 @@
 %% Rays class
-% coded at 2022-09-06
-% last upate at 2022-09-08
-%	by Jungkwuen An (morenara@gmail.com)
+%	coded at 2022-09-06
+%	last upate at 2022-09-08
+%		by Jungkwuen An (morenara@gmail.com)
 %
 classdef c_Rays
 	properties
